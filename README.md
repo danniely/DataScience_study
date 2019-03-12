@@ -10,9 +10,5 @@ Welcome to Hyunho's Data Science Lab
 
 2) Projects
     
-    * [Used car price drop prediction][1]
+    * [Used car price drop prediction](https://github.com/danniely/DataScience_study/tree/master/used_car/Used_Car_price.ipynb)
       
-    
-
-
-[a link](https://github.com/danniely/repo/blob/branch/Used_Car_price.ipynb)
