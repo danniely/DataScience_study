@@ -6,12 +6,9 @@ Welcome to Hyunho's Data Science Lab
 
 
 # Table of Contents 
-1) My exercises and studies
+1) [Data Science studies](https://github.com/danniely/DataScience_study/tree/master/Study)
 
 2) Projects
     
-    * [Used car price drop prediction](https://github.com/danniely/DataScience_study/used_car/Used Car price.ipynb)
+    * [Used car price drop prediction](https://github.com/danniely/DataScience_study/tree/master/used_car/Used_Car_price.ipynb)
       
-    
-
-
