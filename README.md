@@ -6,7 +6,7 @@ Welcome to Hyunho's Data Science Lab
 
 
 # Table of Contents 
-1) My exercises and studies
+1) [Data Science studies](https://github.com/danniely/DataScience_study/tree/master/Study)
 
 2) Projects
     
