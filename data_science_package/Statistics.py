@@ -6,10 +6,10 @@
 
 import os
 import sys
-module_path = os.path.abspath(os.path.join('C:\\Users\\User\\Documents\\GitHub\\DataScience_study\\data_science_package\\linear'))
+module_path = os.path.abspath(os.path.join('C:\\Users\\Danniel\\Documents\\GitHub\\DataScience_study\\data_science_package'))
 if module_path not in sys.path:
     sys.path.append(module_path)
-from data_science_package.linear import sum_of_squares, dot
+from linear import sum_of_squares, dot
 import math
 
 
