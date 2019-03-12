@@ -8,6 +8,8 @@ Welcome to Hyunho's Data Science Lab
 # Table of Contents 
 1) My exercises and studies
 
-2) Cool projects 
+2) Projects
+    
+    Used car price drop prediction
 
 
