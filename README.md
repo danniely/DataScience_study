@@ -1,14 +1,12 @@
-# DataScience_study
+# Used Car Price Tendency Prediction
 
-Welcome to Hyunho's Data Science Lab
+In this module, we are going to make prediction towards used cars' price tendency. There are total 2 parts in this project.\
+In part 1, we will determine the price drop tendency catergorized by each car brand.\
+In part 2, we will predict the actual price drop of the most popular model of each car brand.
 
-*"Facts are stubborn, but statistics are more pliable."* - Mark Twain
 
-
-# Table of Contents 
-1) [Data Science studies](https://github.com/danniely/DataScience_study/tree/master/Study)
-
-2) Projects
+## Part 1
+* [Used car price drop prediction](https://github.com/danniely/DataScience_study/tree/master/used_car/Used_Car_price.ipynb)
     
-    * [Used car price drop prediction](https://github.com/danniely/DataScience_study/tree/master/used_car/Used_Car_price.ipynb)
-      
+## Part 2
+
