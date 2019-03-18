@@ -6,7 +6,7 @@ In part 2, we will predict the actual price drop of the most popular model of ea
 
 
 ## Part 1
-* [Used car price drop prediction](https://github.com/danniely/DataScience_study/tree/master/used_car/Used_Car_price.ipynb)
+* [Price drop prediction by brands](https://github.com/danniely/Used-Car-Price/blob/Hyunho/Used_Car_price.ipynb)
     
 ## Part 2
-
+* [Price drop prediction by car models](https://github.com/danniely/Used-Car-Price/blob/Hyunho/Car_model_price.ipynb) 
