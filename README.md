@@ -8,6 +8,6 @@ In part 2, we will predict the actual price drop of the most popular model of ea
 ## Part 1
 * [Price drop prediction by brands](https://github.com/danniely/Used-Car-Price/blob/Hyunho/Used_Car_price.ipynb)
     
+    
 ## Part 2
 * [Price drop prediction by car models](https://github.com/danniely/Used-Car-Price/blob/Hyunho/Car_model_price.ipynb) 
-http://www.goodcarbadcar.net/2019/01/december-2018-ytd-u-s-passenger-car-sales-rankings-best-selling-cars-in-america/
