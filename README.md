@@ -10,4 +10,4 @@ In part 2, we will predict the actual price drop of the most popular model of ea
 ![part_1_result](https://user-images.githubusercontent.com/37637823/56077712-3a874f80-5d94-11e9-8727-c8a4d43fc4fe.png)
 
 ## Part 2
-* [Price drop prediction by car models](https://github.com/danniely/Used-Car-Price/blob/Hyunho/Car_model_price.ipynb) 
+* [Price drop prediction by car models](https://github.com/danniely/Used-Car-Price/blob/Hyunho/Car_model_price_prediction.ipynb) 
